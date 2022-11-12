@@ -1,0 +1,27 @@
+📌Data Model
+
+- Data modeling is the process of creating a simplified diagram of a software system and the data elements it 
+  contains, using text and symbols to represent the data and how it flows. 
+
+- Data models provide a blueprint for designing a new database or reengineering a legacy application. Overall, data modeling
+  helps an organization use its data effectively to meet business needs for information.
+
+- Defined as an abstract model that organizes data description, data semantics, and consistency constraints of data. 
+
+- It emphasizes on what data is needed and how it should be organized instead of what operations will be performed on data.
+
+- It is a conceptual representation of Data objects, the associations between different data objects, and the rules.
+
+📌Classification
+
+-> Data Model is basically classified into 3 different types of data model 
+
+    ▶ Conceptual Data Model
+      ⇉ E-R Model
+
+    ▶ Representational Data Model
+      ⇉ Relational Model
+
+    ▶ Physical Data Model
+      ⇉ Storage Medium
+
